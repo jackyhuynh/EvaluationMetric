@@ -1,7 +1,7 @@
-Evaluating Classifier
+# Evaluating Classifier
 
 ## Introduction
-Evaluating classifier using Python
+Evaluating classifier using Python. looking at evaluation metrics and hyperparameter turning
 
 ## Technology
 List of technology
