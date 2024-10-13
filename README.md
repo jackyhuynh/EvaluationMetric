@@ -1,8 +1,8 @@
-# Evaluating Classifier
+# Evaluating & Classifier
 
 ## Introduction
 
-Evaluating classifier using Python focus on evaluation metrics and hyperparameter turning
+Evaluating classifiers using Python focuses on evaluation metrics and hyperparameter turning
 
 ## Technology
 
